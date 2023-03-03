@@ -1,4 +1,3 @@
-import random
 
 template_choice = int(input("Please select a story template 1, 2 or 3: "))
 
